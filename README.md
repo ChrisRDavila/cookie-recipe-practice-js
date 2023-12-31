@@ -2,7 +2,7 @@
 
 ####  By Christopher Davila
 
-#### Cookie website to showcase recipe
+### Cookie website to showcase recipe
 
 ### Technologies Used
 
